@@ -1,0 +1,11 @@
+D:\ptopw\hchen229-ptopw-39fcc5e\ptopw\bin\Debug\ptopw.exe.config
+D:\ptopw\hchen229-ptopw-39fcc5e\ptopw\bin\Debug\ptopw.exe
+D:\ptopw\hchen229-ptopw-39fcc5e\ptopw\bin\Debug\ptopw.pdb
+D:\ptopw\hchen229-ptopw-39fcc5e\ptopw\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ptopw\hchen229-ptopw-39fcc5e\ptopw\obj\x86\Debug\ptopw.MainWindow.resources
+D:\ptopw\hchen229-ptopw-39fcc5e\ptopw\obj\x86\Debug\ptopw.Properties.Resources.resources
+D:\ptopw\hchen229-ptopw-39fcc5e\ptopw\obj\x86\Debug\ptopw.WNICSetupDialog.resources
+D:\ptopw\hchen229-ptopw-39fcc5e\ptopw\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ptopw\hchen229-ptopw-39fcc5e\ptopw\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ptopw\hchen229-ptopw-39fcc5e\ptopw\obj\x86\Debug\ptopw.exe
+D:\ptopw\hchen229-ptopw-39fcc5e\ptopw\obj\x86\Debug\ptopw.pdb
